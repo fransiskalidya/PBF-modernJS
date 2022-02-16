@@ -1,5 +1,5 @@
 let polStudent = ({name, polytechnic})=>{
-    alert(`${name}from ${polytechnic}`);
+    alert(`${name} from ${polytechnic}`);
 };
 
 polStudent({
